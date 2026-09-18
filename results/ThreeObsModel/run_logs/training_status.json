@@ -1,0 +1,65 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 8939835,
+                "file_path": "results/ThreeObsModel/My Behavior/My Behavior-8939835.onnx",
+                "reward": 0.7044404951731363,
+                "creation_time": 1776793248.0572531,
+                "auxillary_file_paths": [
+                    "results/ThreeObsModel/My Behavior/My Behavior-8939835.pt"
+                ]
+            },
+            {
+                "steps": 8999979,
+                "file_path": "results/ThreeObsModel/My Behavior/My Behavior-8999979.onnx",
+                "reward": 0.774710013971224,
+                "creation_time": 1776799411.332674,
+                "auxillary_file_paths": [
+                    "results/ThreeObsModel/My Behavior/My Behavior-8999979.pt"
+                ]
+            },
+            {
+                "steps": 9499994,
+                "file_path": "results/ThreeObsModel/My Behavior/My Behavior-9499994.onnx",
+                "reward": 0.724867726627149,
+                "creation_time": 1776802338.299767,
+                "auxillary_file_paths": [
+                    "results/ThreeObsModel/My Behavior/My Behavior-9499994.pt"
+                ]
+            },
+            {
+                "steps": 9999992,
+                "file_path": "results/ThreeObsModel/My Behavior/My Behavior-9999992.onnx",
+                "reward": 0.8772361117104689,
+                "creation_time": 1776805209.393876,
+                "auxillary_file_paths": [
+                    "results/ThreeObsModel/My Behavior/My Behavior-9999992.pt"
+                ]
+            },
+            {
+                "steps": 10000030,
+                "file_path": "results/ThreeObsModel/My Behavior/My Behavior-10000030.onnx",
+                "reward": 0.8877511184240124,
+                "creation_time": 1776805209.4291258,
+                "auxillary_file_paths": [
+                    "results/ThreeObsModel/My Behavior/My Behavior-10000030.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000030,
+            "file_path": "results/ThreeObsModel/My Behavior.onnx",
+            "reward": 0.8877511184240124,
+            "creation_time": 1776805209.4291258,
+            "auxillary_file_paths": [
+                "results/ThreeObsModel/My Behavior/My Behavior-10000030.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2"
+    }
+}

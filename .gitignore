@@ -59,9 +59,6 @@ __pycache__/
 *.egg-info/
 .pytest_cache/
 
-# Training dumps (keep Config/ and trained .onnx models in Assets/Models)
-results/
-
 # OS files
 .DS_Store
 Thumbs.db

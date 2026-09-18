@@ -1,0 +1,47 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 431940,
+                "file_path": "results/totalRandomeness/My Behavior/My Behavior-431940.onnx",
+                "reward": null,
+                "creation_time": 1776528796.991335,
+                "auxillary_file_paths": [
+                    "results/totalRandomeness/My Behavior/My Behavior-431940.pt"
+                ]
+            },
+            {
+                "steps": 499992,
+                "file_path": "results/totalRandomeness/My Behavior/My Behavior-499992.onnx",
+                "reward": null,
+                "creation_time": 1776529321.879597,
+                "auxillary_file_paths": [
+                    "results/totalRandomeness/My Behavior/My Behavior-499992.pt"
+                ]
+            },
+            {
+                "steps": 551950,
+                "file_path": "results/totalRandomeness/My Behavior/My Behavior-551950.onnx",
+                "reward": null,
+                "creation_time": 1776529655.0253901,
+                "auxillary_file_paths": [
+                    "results/totalRandomeness/My Behavior/My Behavior-551950.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 551950,
+            "file_path": "results/totalRandomeness/My Behavior.onnx",
+            "reward": null,
+            "creation_time": 1776529655.0253901,
+            "auxillary_file_paths": [
+                "results/totalRandomeness/My Behavior/My Behavior-551950.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2"
+    }
+}
