@@ -88,7 +88,6 @@ public class movetogame : Agent
 
         if (episodeTimer >= maxEpisodeTime)
         {
-            Debug.Log("Time out nigga");
             AddReward(-0.5f);
             EndEpisode();
         }
