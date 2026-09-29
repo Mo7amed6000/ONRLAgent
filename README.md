@@ -120,4 +120,5 @@ New runs are written under `results/<run-id>/`. Copy an `.onnx` file into `Asset
 
 ## License
 
-This project is provided for educational use. Add a license file if you want to specify terms for reuse.
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this project, provided that the original copyright notice and license are retained.
